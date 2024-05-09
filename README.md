@@ -5,5 +5,5 @@
 
 # How to install
 
-  To install the API open GeheimDevOS SDK, open "Settings" then click "Languages" then import and choose "Downloaded File" or "Official Builds".
+  To install the API open GeheimDevOS SDK, open "Settings" then click "Languages" then "Import" and choose "Downloaded File" or "Official Builds".
   If you want to update SDK choose from home screen "Settings" and then "Check for Update".
